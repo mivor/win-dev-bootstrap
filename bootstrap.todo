@@ -1,0 +1,92 @@
+Git:
+ ☐ Download
+    ☐ Curl download page
+    ☐ Find download link with Sed
+    ☐ Curl latest setup from link
+  ☐ Install
+    ☐ Use .ini file or parameters
+    ☐ Silent Install
+    ☐ Configure PATH (if needed)
+  ☐ Configure
+    ☐ Configure core.autocrlf
+    ☐ User config
+    ☐ Editor config
+    ☐ Misc configs
+  ☐ Set aliases
+    ☐ Common command shortcuts
+    ☐ log shortcut
+
+Bash:
+ ☐ If portable configure HOME
+ ☐ Set up ~/.bashrc
+   ☐ PS color
+   ☐ ssh-agent
+   ☐ command aliases
+   ☐ sublime aliases
+ ☐ Set up ~/bin/ programs
+   ☐ hub
+   ☐ vhost
+   ☐ wp-cli
+
+Sublime:
+ ☐ Download
+   ☐ Curl download page
+   ☐ Find download link with Sed
+   ☐ Curl choosen & latest setup from link
+ ☐ Install
+   ☐ Use .ini file or parameters
+   ☐ Silent install
+ ☐ Configure
+   ☐ Install Package Control
+   ☐ Set up Packages/User
+ ☐ Optional
+   ☐ Configure Git & Console parts
+
+Ruby:
+ ☐ Download
+   ☐ Curl download page
+   ☐ Find download link with Sed
+   ☐ Curl choosen & latest setup from link
+ ☐ Install
+   ☐ Use .ini file or parameters
+   ☐ Silent install
+ ☐ Configure
+   ☐ If Needed!
+ ☐ Install Gems
+   ☐ sass
+   ☐ compass
+   ☐ vagrant
+   ☐ capistrano-wp
+
+NodeJS:
+  ☐ Download
+   ☐ Curl download page
+   ☐ Find download link with Sed
+   ☐ Curl choosen & latest setup from link
+ ☐ Install
+   ☐ Use .ini file or parameters
+   ☐ Silent install
+ ☐ Configure
+   ☐ If Needed!
+
+Grunt:
+ ☐ Download
+   ☐ Curl download page
+   ☐ Find download link with Sed
+   ☐ Curl choosen & latest setup from link
+ ☐ Install
+   ☐ Use .ini file or parameters
+   ☐ Silent install
+ ☐ Configure
+   ☐ If Needed!
+ ☐ Install packages
+   ☐ sass
+   ☐ watch
+   ☐ Livereaload??
+   ☐ minify
+   ☐ Lint
+   ☐ Concat
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Archive:
+
